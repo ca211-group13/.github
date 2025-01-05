@@ -1,7 +1,3 @@
-Here’s a more concise version of the README:
-
----
-
 # Welcome to **ca211 group13** 🎓✨
 
 We are a group of classmates collaborating on assignments, projects, and graduation theses. Our goal is to learn, share knowledge, and create impactful solutions together. 🚀
@@ -59,6 +55,3 @@ We are students with skills in:
 
 Let’s create something amazing! 💪🎉
 
---- 
-
-This version keeps the key points without being overly detailed.
